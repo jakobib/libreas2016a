@@ -44,6 +44,15 @@ befindet sich derzeit in der Begutachtungsphase.
 
 "by the digital humanities research community and the cultural heritage domain."
 
+Beispielanfragen (SPARQL):
+
+* Anzahl der Bücher und literarischen Werke in Wikidata:
+  <http://tinyurl.com/LivresCatWD> (fast 500.000)
+* Anzahl der Aussagen, die mit einer Quelle mit DOI belegt sind:
+  <http://tinyurl.com/zxn8rmb> (über 20.000) 
+
+Benoît Deshayes (User:Shonagon) arbeitet an der Französischen Nationalbibliothek und mit Wikidata.
+
 # Bisherige Ergebnisse
 
 Von verschiedener Seite werden bibliographische Daten in Wikidata eingetragen:
@@ -57,6 +66,8 @@ Von verschiedener Seite werden bibliographische Daten in Wikidata eingetragen:
   [@Willighagen2016]
 
 * ...
+
+* <https://www.wikidata.org/wiki/Wikidata:WikiProject_Books> u.A.
 
 ...
 
