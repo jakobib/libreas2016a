@@ -1,175 +1,108 @@
-# Wikidata als Universaldatenbank
+# Ein gescheiterter Fachartikel
 
-Als vor 15 Jahren mit dem Versuch begonnen wurde, allein durch die gemeinsamen
-Arbeit von Interessierten Laien eine Universalenzyklopädie zu erstellen, war
-der Aufstieg von Wikipedia zum zentralen Nachschlagewerk unserer Zeit nicht
-absehbar. Trotz regelmäßiger Kritik bezüglich ihrer Verlässlichkeit und
-unabhängig von ihrem deskriptiv-narrativen Charakter wird Wikipedia auch dazu
-genutzt, einzelne Fakten oder Aussagen wie Geburtsdaten, Größenangaben und
-Zugehörigkeiten nachzuschlagen. Solche strukturierten Daten, die unter Anderem
-in Listen, Tabellen, Infoboxen und Kategorien zu finden sind, lassen sich
-grundsätzlich bessert in Datenbank zusammenführen und auswerten.
+Als ich den Call for Papers für die
+[LIBREAS](http://www.wikidata.org/entity/Q1798120)^[Die Hyperlinks im Text
+verweisen auf entsprechende Wikidata-Items oder -Projektseiten.]-Ausgabe #29
+"Bibliographien" zur Kenntnis nahm, war sofort klar: ich muss unbedingt etwas
+zu einem Thema einreichen, dass mir schon länger auf den Nägeln brennt. Wie
+[Wikipedia](http://www.wikidata.org/entity/Q52), deren Aufstieg ich vor rund
+zehn Jahren intensiv mit Vorträgen, Publikationen und nicht zuletzt mit aktiver
+Teilnahme begleitete, geht es wieder um ein Projekt der [Wikimedia
+Foundation](http://www.wikidata.org/entity/Q180), und zwar um
+[Wikidata](http://www.wikidata.org/entity/Q2013). Wieder habe ich das Gefühl,
+dass hier eine Entwicklung stattfinden, die eine der Kernaufgabe von
+Bibliotheken tangiert, aber in ihrer Tragweite von der [Bibliotheks- und
+Informationswissenschaftlichen](http://www.wikidata.org/entity/Q13420675)
+Fachcommunity noch nicht so richtig wahrgenommen wird. Wieder versuche ich zum
+Thema zu publizieren und nehme an der Entwicklung regen Anteil. Im Gegensatz zu
+vor zehn Jahren ist mein Anteil am Wikidata-Projekt jedoch durch berufliche und
+familiäre Verpflichtungen beschränkt und vielleicht fehlt mir auch etwas die
+naive Unverfrorenheit, die so hilfreich ist um andere für ein Projekt wie
+Wikipedia oder Wikidata zu begeistern.
 
-Um Daten aus Wikipedia und anderen Wikimedia-Projekten gemeinsam zu verwalten,
-wurde deshalb vor 3 Jahren mit [Wikidata](https://www.wikidata.org/) eine
-Datenbank geschaffen, die wie Wikipedia direkt von Interessierten bearbeitet
-werden kann. Wie in Wikis üblich werden dabei alle Änderungen protokolliert, so
-dass prinzipiell keine Informationen verlorengehen. Während Datenbanken
-normalerweise auf spezielle Arten von Inhalte und/oder Anwendungen festgelegt
-(Geodaten, Adressdaten, Katalogdaten...) handelt es sich bei Wikidata um die
-erste "Universaldatenbank": aufgenommen werden kann mindestens alles was für
-eines der Wikimedia-Projekte relevant ist wobei die Struktur der Daten (Felder
-oder Beziehungstypen...) nicht bis festgelegt ist sondern laufend für neue
-Arten von Inhalte erweitert wird.
+Inzwischen habe ich den mittlerweile dritten Entwurf eines
+[Fachartikels](http://www.wikidata.org/entity/Q591041) mit dem Titel "Wikidata
+als Universalbibliographie" abgebrochen, während die Ideen, Notizen, und offene
+Browsertabs zum Thema immer mehr werden. Falls jemand mit dem Gedanken einer
+Masterarbeit, Promotion oder eines Forschungsprojektes zum Thema spielt, möge
+sie oder er sich bitte bei mir melden. Ein Grundproblem besteht in der
+Geschwindigkeit mit der sich Wikidata im Allgemeinen und die Sammlung von
+bibliographischen Daten in/mit Wikidata im Speziellen entwickelt.
 
-Zunehmend stammen strukturierte Angaben, für die Wikipedia als
-Informationsquelle dient, indirekt aus Wikidata. Wie erfolgreich die
-Universaldatenbank letzendlich sein wird, ist allerdings noch offen, zumal es
-bislang wenige Versuche von Universaldatenbanken gibt an denen Wikidata
-gemessen werden könnte.  (Freebease, Cyc,...?).
+# Wikidata als Universalbibliographie
 
-Für die Beurteilung und weitere Abschätzung ist es deshalb sinnvoller,
-thematische Ausschnitte von Wikidata zu betrachten. Für den Bereich der in von
-Bibliotheken verwalteten Daten sind dies vor allem Normdaten und
-bibliographische Daten. Die Nutzung von Wikidata als Normdatenquelle wurde
-zumindest in Ansätzen bereits an anderer Stelle dargelegt (Voß 2013), der Rest
-dieses Artikels behandelt die Verwendung von Wikidata für bibliographische
-Daten.
+Um es kurz zu machen, möchte ich an dieser Stelle nur meine Einschätzung
+abgeben: *Wikidata hat das Potential für Bibliographien verleichbares zu
+leisten wie Wikipedia für allgemeine Nachschlagewerke*. Mit allen Vor- und
+Nachteilen.[^2][^3] Insbesondere ist seit Paul Otlets [Répertoire
+bibliographique universel](http://www.wikidata.org/entity/Q3456262) das Ziel
+einer wirklichen Universalbibliographie erstmals wieder in greifbare Nähe
+gerückt.[^4]  Diese Einschätzung basiert nicht nur auf meiner allgemeinen Erfahrung
+mit Wikipedia, Wikidata, Social Cataloging, bibligraphischen Datenformaten und
+Datenbanken etc., sondern kann auch durch einige Indizien belegt werden:
 
-# Wikipedia als Universalbibliographie
- 
-Im folgenden soll skizziert werden ob und in welcher Form Wikidata als
-Universalbibliographie sich eignet. ... dies ist keine ausgearbeitete Untersuchung sondern
-eher eine Ideenskizze und Quellensammlung, als Grundlage für weitere Forschungen,
-Umsetzungen und nicht zuletzt als Weckruf an alle die sich in irgend einer Weise mit
-bibliographischen Daten beschäftigen. 
+[^2]: Diese Vor- und Nachteile wären unter Anderem Gegenstand einer
+genaueren Untersuchung der tatsächlichen und prognostizierten Rolle von
+Wikidata für Bibliographien.
 
-...
+[^3]: Für den Bereich der Normdaten ist Wikidata übrigens von ähnlicher
+Bedeutung, dies ist aber ein anderes Thema (vgl. @Voss2014).
 
-Social Cataloging: erfolgreich, aber: bag model statt set model. Dies ist
-verständlich, da nutzer vor allem für sich selber arbeiten. Bei den
-Wikimedia-projekten überwiegen jedoch andere Motivationen.
-(Note: OpenLibrary)
+[^4]: Siehe @Hartmann2015 für eine Auseinandersetzung mit Otlets Projekt in LIBREAS,
+aus der bereits der Datenbank-Charakter dieser Universalbibliographie hervorgeht.
 
-...
-
-Ist die Idee realistisch?
-
-Sollte zunächst einmal geklärt werden, welche Idee genau. Die Idee einer Universalbibliographie ist vermutlich so alt wie die erste bibliographie überhaupt. Die moderne Universalbibliographie ist 
-
-Nach klärung der Zieles Universalbibliographie wäre zu klären, ob dieses Ziel mit Wikidata erfüllt werden kann oder sogar bereits in Ansätzen erfüllt wird.
-
-
-Bestandsaufnamen ...
-
-# Exposé
-
-**Der Artikel war ursprünglich als Exposé gedacht. Folgedes muss überarbeitet werden:**
-
-## Forschungsfragen
-
-> Wie eignet sich Wikidata als Universalbibliographie?
-
-I) Grundlagen
-
-    1. Was ist Wikidata?
-
-    2. Was ist eine Universalbibliographie?
+* Dank ihres flexiblen Datenmodells lassen sich bereits jetzt bibliographische
+  Daten in Wikidata eintragen. Zur Koordinierung gibt es verschiedene Projekte
+  innerhalb von Wikidata ([WikiProject Books](https://www.wikidata.org/wiki/Wikidata:WikiProject_Books),
+  [WikiProject Periodicals](https://www.wikidata.org/wiki/Wikidata:WikiProject_Periodicals),
+  [WikiProject Source MetaData](https://www.wikidata.org/wiki/Wikidata:WikiProject_Source_MetaData)...).
+  Wie in Wikipedia gibt es allerdings keine
+  zentrale Koordination, so dass von verschiedener Seite bibliographische 
+  Angaben in Wikidata einfließen.[^5]
 
 
-II) Bibliographische Daten in Wikidata
+[^5]: Ein einfaches Beispiel ist die von @Willighagen2016 beschriebene
+Migration seiner Datenbank zu Wikidata: Zwischen 2010 und 2016 sammelten Egon
+Willighagen und Samuel Lampa die Säurekonstante ($pK_a$) verschiedener
+chemischer Substanzen in einer Datenbank. Jeder Eintrag besteht aus dem
+International Chemical Identifier  (InChI), einem Messwert und einer
+Fachpublikation in welcher der Messwert publiziert wurde. In Wikidata würden im
+Rahem des Umzugs der Datenbank nach Wikidata für alle Fachpublikationen
+einzelne Wikidata-Einträge angelegt.
 
-    3. In welcher Form können Bibliographische Daten in Wikidata eingetragen werden?
 
-III) Wikidata als Universalbibliographie
+* Während beim Social Cataloging herkömmlicherweise jedeR NutzerIn eine eigene
+  Bibliographie pflegt ("bag-model") arbeiten in Wikidata alle gemeinsam an einem
+  Datenbestand ("set-model"), ähnlich wie bei einem Verbundkatalog.
 
-    4. Wie kann Wikidata als Bibliographie genutzt werden?
+* Verglichen mit bibliothekarischer Verbundkatalogisierung ist die Hürde Fehler
+  zu beseitigen oder Ergänzungen vorzunehmen in Wikidata allerdings ungleich 
+  niedriger. Während die Mittel von Bibliotheken eher begrenzt sind, ist bei 
+  Wikidata von einer weiter wachsenden Zahl von Beitragenden auszugehen.
 
-    5. Wie kann Qualität und Abdeckung und sichergestellt werden?
+* Die umfangreiche Verfügbarkeit der Inhalte von Wikidata über verschiedene
+  Schnittstellen ermöglicht es, qualifizierte Aussagen über die Datenqualität
+  zu treffen und diese so kontrolliert zu verbessern.
 
-Mehr vergleichbar mit den Ansätzen von Paul Otlet und L.
-[@Hartmann2015]
-Faktendatenbank
+* Als universelle Datenbank ist Wikidata nicht auf bibliographische Daten
+  beschränkt. Das Prinzip der Verknüpfung mit
+  [Normdaten](http://www.wikidata.org/entity/Q6423319) lässt sich so auf die
+  Spitze treiben und ermöglicht bibliometrische und weitere Auswertungen, die
+  mit anderen Katalogen nur schwer möglich sind.
 
-## Stand der Forschung
+* Wikidata ist weder kommerziellen noch politischen Interessen unterworfen, die
+  die Entwicklung von (Universal)bibliographien in anderen Bereichen behindern.
 
-![Beispiel einer Aussage in Wikidata. Bildquelle: @Willighagen2016](wikidata-statement.png)
+* Die Verwendung von Wikidata für die Wissenschaft wird auch in anderen Bereichen
+  vorangetrieben. Der Antrag zum EU-Projekt Wikidata for Research (Wiki4R) gibt
+  einen guten Überblick über die zu erwartende Entwicklung [@Wiki4R].
 
-[@Putman2015]
-...
+* Ende Mai findet in Berlin die [WikiCite-Tagung](https://meta.wikimedia.org/wiki/WikiCite_2016) 
+  mit 50 ExpertInnen statt, um einen konkreten Plan für die Umsetzung der Migration aller Quellenanaben
+  aus Wikipedia nach Wikidata festzulegen.
 
-Ein Antrag zu einem EU-Projekt
-zur Aufbau einer Virtuelle Forschungsumgebung
-[@Wiki4R]
-befindet sich derzeit in der Begutachtungsphase.
+Es kann also davon ausgegangen werden, dass alle die sich mit der Sammlung
+bibliographischer Daten beschäftigen mit Wikidata "[in interessanten Zeiten
+leben](http://www.wikidata.org/entity/Q14634108)" werden.
 
-(including Europeana)
-
-"by the digital humanities research community and the cultural heritage domain."
-
-Beispielanfragen (SPARQL):
-
-* Anzahl der Bücher und literarischen Werke in Wikidata:
-  <http://tinyurl.com/LivresCatWD> (fast 500.000)
-* Anzahl der Aussagen, die mit einer Quelle mit DOI belegt sind:
-  <http://tinyurl.com/zxn8rmb> (über 20.000) 
-
-Benoît Deshayes (User:Shonagon) arbeitet an der Französischen Nationalbibliothek und mit Wikidata.
-
-## Bisherige Ergebnisse
-
-Von verschiedener Seite werden bibliographische Daten in Wikidata eingetragen:
-
-* Zwischen 2010 und 2016 sammelten Egon Willighagen und Samuel Lampa die 
-  Säurekonstante ($pK_a$) verschiedener chemischer Substanzen in einer
-  Datenbank. Jeder Eintrag besteht aus dem International Chemical Identifier  
-  (InChI), einem Messwert und einer Fachpublikation in welcher der Messwert
-  publiziert wurde. Die Datenbank wurde inzwischen nach Wikidata übertragen,
-  wobei für alle Fachpublikationen einzelne Wikidata-Einträge angelegt wurden.
-  [@Willighagen2016]
-
-* ...
-
-* <https://www.wikidata.org/wiki/Wikidata:WikiProject_Books> u.A.
-
-* <http://librarybase.wmflabs.org/wiki/Librarybase:About>
-
-...
-
-## Umsetzung
-
-* Wikidata-Dumps, Wikidata Toolkit
-* Für einige Fragestellungen: Vollständige XML-Dumps
-
-Ob ein Mirror notwendig ist? Nein. 
-
-## Mittel und Zeitplan
-
-Die benötigten Sachmittel zur Umsetzung des Forschungsvorhabens sind
-überschaubar. Da einige der Untersuchungen recht datenintensiv sind^[Bei
-Überarbeitung dieses Exposés in einen Forschungsantrag könnte das Buzzword *big
-data* hilfreich sein.] sollte ein leistungsfähiger Entwicklungs-PC angeschafft
-werden. Hinzu kommen vor allem Reisekosten für Treffen mit Vertretern der
-Wikimedia-Communities und anderen Experten. Ggf. könnten zusätzliche Workshops
-im Rahmen anderen Veranstaltung durchgeführt werden. Den größten Anteil der
-benötigten Mittel machen also die Personalmittel aus, die wiederum mit Dauer
-und Umfang des Vorhabens zusammenhängen.
-
-Bei Beschränkung auf einen Schwerpunkt ließen sich bereits in einem Jahres
-ausreichend Ergebnisse erzielen. Für die Behandlung einzelne Teilaspekte,
-beispielsweise in Form einer Fachpublikation, reichen möglicherweise bereits
-einige Wochen bis Monate tatsächlicher Arbeitszeit. Zur Durchführung des
-gesamten Vorhabens in einem Team sollten eher zwei Jahre eingeplant werden.
-Sollte das Vorhaben im Rahmen einer Promition durchgeführt werden, so sind drei
-bis vier Jahre realistischer. 
-
-*Zu guter Letzt wäre es auch möglich, ganz auf die Umsetzung zu verzichten und
-darauf zu vertrauen, dass Wikidata durch Selbstorganisation quasi automatisch
-zu irgend einer Form von Universalbibliographie wird.*
-
-Auf einen konkreten Zeitplan wird an dieser Stelle verzichtet, da dieses diesem
-Exposé nicht ein konkret geplantes Forschungsprojekt sondern lediglich eine auf
-Umsetzung harrende Idee behandelt. 
-
-# Literaturverzeichnis
-
+# Literaturangaben
